@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    font-size: large;
+    background-color: #8B5CF6;
+    
+}
+#int-price,  #stk-quant, #cur-price{
+    display: block;
+    margin: 0.5rem auto;
+    padding: 0.4rem;
+    border-radius: 0.5rem;
+    background-color:#60A5FA;
+}
+#btn-click{
+    font-size: large;
+    padding: 0.2rem;
+    background-color:slategray;
+
+}
+#btn-click:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+
